@@ -35,6 +35,7 @@ nav:
           - Feature list export: module_docs/io/feat-list-export.md
           - Projects: module_docs/project_io/project_io.md
           - Export to other software: module_docs/io/data-exchange-with-other-software.md
+          - Merge MS/MS (experimental): module_docs/io/merge_ms2_kai.md
           - Spectral library generation: module_docs/io_spectral_library_export/spectral_library_generation.md
           - Merge spectral libraries: module_docs/io_spectral_library_export/merge_libraries.md
           - Export scans (feature list): module_docs/io_scans_feature/export-scans-feature.md
