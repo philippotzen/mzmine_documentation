@@ -1,0 +1,56 @@
+image,status,evidence
+docs/img/advanced_import.png,old,"bar-chart icon, grey checkboxes"
+docs/img/contribute/example_dialog.png,old,"bar-chart icon, grey checkboxes"
+docs/img/handle_original.png,old,bar-chart icon
+docs/img/menu_pref.png,old,"menu item ""Save MZmine parameters"""
+docs/img/performance_param.png,old,old grey checkbox
+docs/module_docs/align_join_aligner/join_aligner.png,old,"""Please set the parameters"", bar-chart icon"
+docs/module_docs/align_ransac/chromatogram.png,likely,"MZmine 2-era plot style, no chrome"
+docs/module_docs/align_ransac/preview-model.png,likely,"MZmine 2-era plot style, no chrome"
+docs/module_docs/featdet_mass_detection/determine_noise_level_new.png,old,"bar-chart icon, grey checkbox"
+docs/module_docs/featdet_mass_detection/example-ftms.png,old,"""Please set the parameters"", bar-chart icon"
+docs/module_docs/featdet_mass_detection/mass-calibration-example.png,old,old grey checkboxes
+docs/module_docs/featdet_mass_detection/mass_detection_window.png,old,bar-chart icon (late mzmine 3)
+docs/module_docs/featdet_mass_detection/noise_level.png,old,"""Please set the parameters"", bar-chart icon"
+docs/module_docs/featdet_ms2_scan_pairing/assign_maldi_ms2s.png,old,bar-chart icon (late mzmine 3)
+docs/module_docs/featdet_ms2_scan_pairing/ms2-scan-pairing.png,old,"""Please set the parameters"", bar-chart icon"
+docs/module_docs/featdet_resolver_adap/wavelet-sn.png,old,"""Please set the parameters"", bar-chart icon"
+docs/module_docs/featdet_resolver_local_minimum/local-minimum-resolver.png,old,"""Please set the parameters"", bar-chart icon"
+docs/module_docs/featdet_smoothing/mobilitysmoothing.png,old,"""Please set the parameters"", bar-chart icon"
+docs/module_docs/featdet_smoothing/smoothingdialog.png,old,"""Please set the parameters"", bar-chart icon"
+docs/module_docs/filter_isotope_filter/isotope-filter.png,old,"""Please set the parameters"", bar-chart icon"
+docs/module_docs/filter_isotope_finder/Isotope_pattern_finder.png,old,"""Please set the parameters"", old MZmine logo"
+docs/module_docs/filter_raw_data/scan-by-scan-preview.png,old,"""Please set the parameters"", bar-chart icon"
+docs/module_docs/group_imagecorrelate/dialog.png,old,bar-chart icon (late mzmine 3)
+docs/module_docs/id_ccs_calibration/ccscalc.jpg,old,"""Please set the parameters"", bar-chart icon"
+docs/module_docs/id_ccs_calibration/external.jpg,old,"""Please set the parameters"", bar-chart icon"
+docs/module_docs/id_ccs_calibration/reference.jpg,old,"""Please set the parameters"", bar-chart icon"
+docs/module_docs/id_ion_networking/metacorr/dialog.png,old,"bar-chart icons, grey checkboxes"
+docs/module_docs/id_lipid_annotation/matched-lipid-signals.png,old,"tab ""Welcome to MZmine 3"""
+docs/module_docs/id_lipid_annotation/side-chain-parameters.png,old,old grey checkbox and buttons
+docs/module_docs/id_spectra_chem_formula/msms-filter.png,old,old grey checkbox
+docs/module_docs/id_spectra_chem_formula/sorting-parameters.png,old,"""Please set the parameters"", bar-chart icon"
+docs/module_docs/id_spectral_library_search/spectral_library_search.png,old,"""MZmine 3"" logo, bar-chart icon"
+docs/module_docs/imaging_featdet/featdet_image_builder/parameters_image_builder.png,old,bar-chart icon (late mzmine 3)
+docs/module_docs/io/chimeric-spectra.png,old,"""Please set the parameters"", bar-chart icon"
+docs/module_docs/io/gnps_export.png,old,"tab ""Welcome to MZmine 3"", bar-chart icon"
+docs/module_docs/io/merge.png,old,"""Please set the parameters"", bar-chart icon"
+docs/module_docs/io/metadata_setup.png,old,"""Please set the parameters"", bar-chart icon"
+docs/module_docs/io/quality-parameters.png,old,old grey checkboxes
+docs/module_docs/lc-ims-ms_featdet/featdet_ion_mobility_trace_builder/featuretable.png,old,"tab ""Welcome to MZmine 3"""
+docs/module_docs/lc-ims-ms_featdet/featdet_ion_mobility_trace_builder/imstracebuilderdialog.png,old,"title ""MZmine 3-SNAPSHOT"""
+docs/visualization_modules/feature_histograms/histogram_mz.png,old,"MZmine 2 (Swing), ""peak list"""
+docs/visualization_modules/feature_histograms/histogram_rt.png,old,"MZmine 2 (Swing), ""peak list"""
+docs/visualization_modules/interactive_ion_id_netw/parameters.png,old,"""Please set the parameters"", bar-chart icon"
+docs/visualization_modules/massvoltammogram/parametersFromFile.png,old,"bar-chart icon, grey checkbox"
+docs/visualization_modules/massvoltammogram/parametersFromList.png,old,bar-chart icon
+docs/visualization_modules/msmsplot/img/msms_plot_highlight.png,old,bar-chart icon on dialog
+docs/visualization_modules/processed_additional/intensity_error.png,old,"MZmine 2 (Swing), ""peak list"""
+docs/visualization_modules/processed_additional/intensity_lines.png,old,"MZmine 2 (Swing), ""peak list"""
+docs/visualization_modules/processed_additional/scatter_plot.png,old,MZmine 2 (Swing)
+docs/visualization_modules/raw_data_overview/raw-data-chromatogram-setup.PNG,old,"""Please set the parameters"", bar-chart icon"
+docs/visualization_modules/raw_data_overview/raw-data-chromatogram.PNG,old,old grey checkbox and buttons
+docs/visualization_modules/raw_data_overview/raw-data-visualizer.PNG,old,"title ""MZmine 3.1.0-beta"""
+docs/visualization_modules/raw_data_overview/scan-histogram-dialog.PNG,old,"MZmine 2 (Swing, Java icon)"
+docs/visualization_modules/raw_data_overview/TIC_double_plot.png,old,"title ""MZmine 1.98"""
+docs/workflows/librarygeneration/processing_wizard_library_annotation.png,old,"tab ""Welcome to MZmine 3"", old processing wizard"

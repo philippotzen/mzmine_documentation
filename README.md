@@ -114,6 +114,34 @@ Please describe the change you are making.
 
 **Follow steps 4 - 7.**
 
+## Updating outdated screenshots
+
+Many pages still show screenshots of mzmine versions older than mzmine 4. They are listed in
+`scripts/outdated_screenshots.csv`, and `scripts/screenshots.py` (Python standard library only)
+helps to find and exchange them:
+
+```powershell
+# search the list: by page, file name or evidence such as "MZmine 2"
+python scripts/screenshots.py list
+python scripts/screenshots.py list -p smoothing
+python scripts/screenshots.py list -s "MZmine 2"
+
+# see them all in the browser (writes outdated_screenshots.html, ignored by Git)
+python scripts/screenshots.py gallery
+
+# put a new screenshot in place of an old one
+python scripts/screenshots.py replace smoothingdialog.png C:\Users\me\Desktop\smoothing.png
+```
+
+`replace` keeps the old file name when the format is the same, so the pages stay unchanged. If the
+new screenshot has a different format, or `--name` is given, the file is renamed and every page
+that shows it is updated. The image is then removed from the list. Use `--dry-run` to see what
+would change first.
+
+`python scripts/screenshots.py scan --unlisted --used` lists the remaining images that were last
+changed before the mzmine 4 release but are not in the list, for example diagrams or cropped plots
+whose mzmine version cannot be told from the image.
+
 ## Page Contributors
 
 {{ git_page_authors }}
